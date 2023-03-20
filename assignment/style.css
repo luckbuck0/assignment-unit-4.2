@@ -1,0 +1,48 @@
+.head {
+background-color: burlywood;
+color: brown;
+text-align: center;
+margin-top: -20px;
+}
+
+.info 
+{
+    background-color: rgb(30, 138, 233);
+    color: yellow;
+    margin-top: -20px;
+    text-align: center;
+}
+
+img
+{
+    height: 400px;
+    width: 1380px;
+    margin-top: -20px;
+    
+}
+
+h3 
+{
+    font-size: 50px ;
+    margin-top: -5px;
+    text-align: center;
+    background-color: rgb(99, 165, 223);
+    color: white;
+    
+}
+
+p
+{
+    margin-top: -50px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    text-align: center;
+    background-color: burlywood;
+    height: 30px;
+}
+
+.p2
+{
+    padding-top:10px;
+    font-size: 30px;
+}
